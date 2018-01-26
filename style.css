@@ -1,0 +1,32 @@
+.title, .subheader {
+  color: #9c2020;
+}
+.white {
+  background-color: #ffffff;
+}
+.red {
+  background-color: #9c2020;
+}
+body {
+  background-image: url("https://www.wallpaperup.com/uploads/wallpapers/2018/01/25/1196793/ef5386b77f90df93931ba78d5e91b4ad-500.jpg");
+  background-repeat: no-repeat; 
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: sans-serif;
+}
+#maintitle {
+  font-size: 10em;
+}
+.title, .subheader {
+  font-size: 5em;
+}
+p {
+  font-size: 2.3em;
+}
+
+.paratitle{
+  font-size: 3em;
+}
+.list {
+  font-size: 2.3em;
+}
